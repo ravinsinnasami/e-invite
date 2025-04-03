@@ -6,7 +6,7 @@ import Home from './pages/Home';
 
 // Import your background music
 // import backgroundMusic from './assets/audio/wedding-music.mp3';
-import backgroundMusic from './assets/audio/primavera2.mp3';
+import backgroundMusic from './assets/audio/primavera3.mp3';
 
 function App() {
   const [showSplash, setShowSplash] = useState(true);
